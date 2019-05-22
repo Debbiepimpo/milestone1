@@ -12,43 +12,78 @@
 </head>
 
 <body>
-    <header>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <a class="navbar-brand logo" href="index.html"></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" 
-                -expanded="false" aria-label="Toggle navigation">
+    <div>
+        <h4>A little bit of the monkees' History </h4>
+        <p></p>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand logo" href="index.html"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" -expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-            <div class="collapse navbar-collapse" id="navbarColor02">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="history.html">History</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="tours-events.html">Tours & Events</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="albums.html">Albums</a>
-                    </li>
-                </ul>
-                <form class="form-inline my-2 my-lg-0">
-                    <input class="form-control mr-sm-2" type="text" placeholder="Search">
-                    <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
-                </form>
-            </div>
-    </header>
+        <div class="collapse navbar-collapse" id="navbarColor02">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="history.html">History</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="tours-events.html">Tours & Events</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="albums.html">Albums</a>
+                </li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="text" placeholder="Search">
+                <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+            </form>
+        </div>
+    </nav>
     <section class="container-fluid">
-        <div class="jumbotron">
-            <h1 class="display-3">The Monkees</h1>
-            <p class="lead">The Monkees is a rock band formed in 1966, whose components are originally from the city of Los Angeles, United States. The group was originally created for a television comedy with the same name on the NBC.</p>
-            <hr class="my-4">
-            <p>Micky Dolenz, Davy Jones, Peter Tork and Michael Nesmith were selected from more than 500 young people.</br> If you want to know more about them click on the link!</p>
-            <p class="lead">
-                <a class="btn btn-secondary btn-lg" href="history.html" role="button">Who we are?</a>
-            </p>
+        <div class="card-group">
+            <div class="card bg-color text-yellow">
+                <img src="../assets/images/md.jpg" class="card-img-top" alt="">
+                <div class="card-body card-body-1 bg-color text-yellow">
+                    <h5 class="card-title bg-color text-yellow">Micky Dolenz</h5>
+                    <p class="card-text bg-color text-yellow">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p class="lead">
+                        <a class="btn btn-secondary btn-sm" href="https://en.wikipedia.org/wiki/Micky_Dolenz" target="_blank" role="button">Show me more!</a>
+                    </p>
+                </div>
+            </div>
+            <div class="card bg-light-yellow text-color">
+                <img src="../assets/images/dj.jpg" class="card-img-top" alt="">
+                <div class="card-body card-body-2 bg-light-yellow text-color">
+                    <h5 class="card-title ">Davy Jones</h5>
+                    <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                    <p class="lead">
+                        <a class="btn btn-secondary btn-sm" href="https://en.wikipedia.org/wiki/Davy_Jones_(musician)" target="_blank" role="button">Show me more!</a>
+                    </p>
+                </div>
+            </div>
+            <div class="card bg-color text-yellow">
+                <img src="../assets/images/pt.jpg" class="card-img-top" alt="">
+                <div class="card-body card-body-1 bg-color text-yellow">
+                    <h5 class="card-title">Peter Tork</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                    <p class="lead">
+                        <a class="btn btn-secondary btn-sm" href="https://en.wikipedia.org/wiki/Peter_Tork" target="_blank" role="button">Show me more!</a>
+                    </p>
+                </div>
+            </div>
+            <div class="card  bg-light-yellow text-color">
+                <img src="../assets/images/mn.jpg" class="card-img-top" alt="">
+                <div class="card-body card-body-2 bg-light-yellow text-color">
+                    <h5 class="card-title">Michael Nesmith</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                    <p class="lead">
+                        <a class="btn btn-secondary btn-sm" href="https://en.wikipedia.org/wiki/Michael_Nesmith" target="_blank" role="button">Show me more!</a>
+                    </p>
+                </div>
+            </div>
         </div>
     </section>
     <footer>
@@ -98,4 +133,5 @@
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
 </html>

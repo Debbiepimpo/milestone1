@@ -96,6 +96,9 @@ header {
 }
 
 /*--------------------------------Body */
+.container-fluid{
+    padding: 0;
+}
 
 .con-flu {
     background-image: url("../images/monkees.jpg");
@@ -103,11 +106,11 @@ header {
     background-size: cover;
     
 }
-
+/*
 .info {
     padding-top: 10px;
     padding-bottom: 25px;
-}
+} */
 
 /*--------------------------------Footer */
 
@@ -121,6 +124,8 @@ footer {
     border: 1px solid #807f7f;
     color: #f3e906;
     min-height: 120px;
+    margin-left: -15px;
+    margin-right: -15px;
 }
 
 .Top-songs i {
@@ -183,8 +188,53 @@ h1 {
     text-shadow: 4px 3px 5px #22230ad4;
 }
 
+/*--------------------------------Cards*/
 
+.bg-light-yellow{
+    background-color: #f3e906;
+}
 
+.bg-color {
+    background-color: #22230a;
+}
+.text-light-yellow {
+    color: #f3e906;
+}
+
+.text-color{
+    color: #22230a;
+}
+
+.card-body-1 {
+    font-family: "Special elite", sans-serif;
+     color: #f3e906;
+}
+
+.card-body-2 {
+    font-family: "Special elite", sans-serif;
+     color: #22230a;
+}
+
+img {
+    height: 183px;
+    width: 254px;
+}
 /*--------------------------------Media */
 
-@media 
+@media (max-width: 768px){
+    .jumbotron {
+        height: 100%;
+        width: 100%;
+        opacity: 0.85;
+       
+    }
+    
+    .con-flu {
+        background-image: none;
+        background-color: #c0bb41;
+    }
+    
+    .display-3 {
+        font-size: 3.5rem;
+    }
+}
