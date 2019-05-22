@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah:100,200,300,400,500,600,700|Permanent+Marker:100,200,300,400,500,600,700|Special+Elite:100,200,300,400,500,600,700&display=swap');
+
+/*--------------------------------Colours*/
+
+.nav {
+    background-color: #22230a;
+}
+
+
+/*--------------------------------Heading*/
+
+header {
+    margin: 0;
+}
+
+.nav {
+    margin-left: 0px;
+    max-height: 60px;
+}
+
+.logo {
+    background: url("../images/logo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 100px;
+    padding-bottom: 10px;
+    margin-left: 20px;
+    min-height: 40px;
+    max-height: 60px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+
+}
+
+/*--------------------------------Nav */
+
+.nav-link {
+    font-family: "Special elite", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #f3e906;
+    margin-left: 10px;
+}
+
+.navbar-dark .navbar-nav .active>.nav-link {
+    color: #f3e906;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #f3e906;
+}
+
+.navbar.bg-dark {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#bfbfbf), color-stop(50%, #999), to(#8f8f8f));
+    background-image: linear-gradient(#bfbfbf, #22230a 50%, #8f8f8f);
+    background-repeat: no-repeat;
+    -webkit-filter: none;
+    filter: none;
+    border: 1px solid #807f7f;
+}
+
+/*--------------------------------Button */
+
+.btn {
+    font-family: "Special elite", sans-serif;
+    font-weight: 600;
+    color: #717163;
+    background-color: #f3e906;
+}
+
+.btn-secondary {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#bfbfbf), color-stop(50%, #999), to(#8f8f8f));
+    background-image: linear-gradient(#807f7f, #f3e906 50%, #807f7f);
+    background-repeat: no-repeat;
+    -webkit-filter: none;
+    filter: none;
+    border: 1px solid #807f7f;
+    box-shadow: 24px 39px 67px 8px rgba(34,35,10,0.61);
+}
+
+.jumbotron {
+    height: 70%;
+    width: 50%;
+    margin-bottom: 0;
+    opacity: 0.95; 
+}
+
+/*--------------------------------Form */
+
+.form-control{
+    font-family: "Special elite", sans-serif;
+    font-weight: 300;
+}
+
+/*--------------------------------Body */
+
+.con-flu {
+    background-image: url("../images/monkees.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.info {
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+/*--------------------------------Footer */
+
+footer {
+    font-family: "Gloria Hallelujah", sans-serif;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#bfbfbf), color-stop(50%, #999), to(#8f8f8f));
+    background-image: linear-gradient(#807f7f, #22230a 50%, #807f7f);
+    background-repeat: no-repeat;
+    -webkit-filter: none;
+    filter: none;
+    border: 1px solid #807f7f;
+    color: #f3e906;
+    min-height: 120px;
+}
+
+.Top-songs i {
+    font-size: 18px;
+    color: #f3e906;
+    text-align: center;
+    padding-left: 5px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+
+.social-links {
+    padding-bottom: 15px;
+
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #f3e906;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background-color: #c2de56;
+}
+
+#footer-details {
+    padding: 20px;
+}
+
+/*--------------------------------General */
+
+h2,h3,h4,h5 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #f3e906;
+}
+
+h1 {
+    font-family: "Special elite", sans-serif;
+    font-weight: 500;
+    color: #f3e906;
+}
+
+.display-3 {
+    text-shadow: 4px 3px 5px #22230ad4;
+}
+
+
+
+/*--------------------------------Media */
+
+@media 
