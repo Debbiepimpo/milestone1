@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah:100,200,300,400,500,600,700|Permanent+Marker:100,200,300,400,500,600,700|Special+Elite:100,200,300,400,500,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah:100,200,300,400,500,600,700|Special+Elite:100,200,300,400,500,600,700&display=swap');
 
 /*--------------------------------Colours*/
 
@@ -78,39 +78,37 @@ header {
     -webkit-filter: none;
     filter: none;
     border: 1px solid #807f7f;
-    box-shadow: 24px 39px 67px 8px rgba(34,35,10,0.61);
+    box-shadow: -2px 1px 67px 8px rgba(34, 35, 10, 0.61);
 }
 
 .jumbotron {
     height: 70%;
     width: 50%;
     margin-bottom: 0;
-    opacity: 0.95; 
+    opacity: 0.95;
 }
 
 /*--------------------------------Form */
 
-.form-control{
+.form-control {
     font-family: "Special elite", sans-serif;
     font-weight: 300;
 }
 
 /*--------------------------------Body */
-.container-fluid{
-    padding: 0;
+
+.container-fluid {
+    margin-left: 20px;
+    margin-right: -20px;
 }
 
 .con-flu {
     background-image: url("../images/monkees.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    
+
 }
-/*
-.info {
-    padding-top: 10px;
-    padding-bottom: 25px;
-} */
+
 
 /*--------------------------------Footer */
 
@@ -171,7 +169,10 @@ footer {
 
 /*--------------------------------General */
 
-h2,h3,h4,h5 {
+h2,
+h3,
+h4,
+h5 {
     margin-bottom: 0.5rem;
     font-weight: 500;
     line-height: 1.2;
@@ -181,6 +182,7 @@ h2,h3,h4,h5 {
 h1 {
     font-family: "Special elite", sans-serif;
     font-weight: 500;
+    text-transform: uppercase;
     color: #f3e906;
 }
 
@@ -188,53 +190,78 @@ h1 {
     text-shadow: 4px 3px 5px #22230ad4;
 }
 
+
 /*--------------------------------Cards*/
 
-.bg-light-yellow{
+.bg-light-yellow {
     background-color: #f3e906;
 }
 
 .bg-color {
     background-color: #22230a;
 }
+
 .text-light-yellow {
     color: #f3e906;
 }
 
-.text-color{
+.text-color {
     color: #22230a;
 }
 
 .card-body-1 {
+    padding-left: 10px;
+    padding-right: 10px;
     font-family: "Special elite", sans-serif;
-     color: #f3e906;
+    color: #f3e906;
 }
 
 .card-body-2 {
+    padding-left: 10px;
+    padding-right: 10px;
     font-family: "Special elite", sans-serif;
-     color: #22230a;
+    color: #22230a;
 }
 
-img {
-    height: 183px;
-    width: 254px;
-}
 /*--------------------------------Media */
 
-@media (max-width: 768px){
+@media (max-width: 768px) {
     .jumbotron {
         height: 100%;
         width: 100%;
         opacity: 0.85;
-       
+
     }
-    
+
     .con-flu {
         background-image: none;
         background-color: #c0bb41;
     }
-    
+
     .display-3 {
         font-size: 3.5rem;
     }
 }
+
+/*-------------------------------Body */
+
+body {
+    background-color: #d9d9d9;
+}
+
+.title {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 40px;
+    background-color: #d9d9d9;
+    text-shadow: 4px 3px 5px #22230ad4;
+}
+
+.first-text {
+    text-align: center;
+    font-family: "Special elite", serif;
+    font-size: 20px;
+    color: #22230a;
+}
+

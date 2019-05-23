@@ -1,0 +1,20 @@
+/*---------------Text on history*/
+
+
+.appear {
+  animation-name: fromleft;
+  animation-duration: 5s; 
+  animation-timing-function: ease-in-out; 
+  animation-delay: 0s;
+  animation-fill-mode: forwards;
+  animation-play-state: running; 
+}
+
+  @keyframes fromleft {
+  from {
+    width:0;
+  }
+    to{
+      width:100%;
+    }
+  }
