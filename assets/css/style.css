@@ -122,6 +122,11 @@ header {
 
 }
 
+.info {
+    font-family: "Special elite", sans-serif;
+    font-weight: 400;
+    color: #22230a;
+}
 
 /*--------------------------------Footer */
 
@@ -208,9 +213,10 @@ h1 {
 
 
 .card-body-1 {
-    padding-left: 0px;
-    padding-right: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
     font-family: "Special elite", sans-serif;
+    text-align: center;
     color: #f3e906;
 }
 
@@ -218,9 +224,16 @@ h1 {
     padding-left: 10px;
     padding-right: 10px;
     font-family: "Special elite", sans-serif;
+    text-align: center;
     color: #22230a;
 }
 
+.image {
+    background-image: url("image.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    height: 100%;
+}
 /*--------------------------------Media */
 
 @media (max-width: 768px) {
@@ -239,7 +252,10 @@ h1 {
     .display-3 {
         font-size: 3.5rem;
     }
+    
 }
+
+
 
 /*-------------------------------Body */
 
@@ -263,3 +279,76 @@ body {
     color: #22230a;
 }
 
+/*------------------------------Tours & Events */
+
+.timeline-item {
+    padding: 4em 2em 0em 2em;
+    position: relative;
+    color: #22230a;
+    border-left: 1px solid;
+}
+
+.timeline-item p {
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:before {
+    content: attr(data-dates);
+    position: absolute;
+    left: 2.5em;
+    top: 3em;
+    display: block;
+    font-family: "Special elite", sans-serif;
+    font-weight: 500;
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:after {
+    width: 12px;
+    height: 12px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: '';
+    background-color: #f3e906;
+}
+
+.tours-heading {
+    font-family: "Special elite", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
+    text-shadow: 4px 3px 5px #22230ad4;
+}
+
+.tours-items {
+    font-family: "Special elite", sans-serif;
+    margin-bottom: 30px;
+}
+
+.shadows {
+    text-shadow: 2px 1px 4px #22230ad4;
+}
+
+.TandE {
+    background-color: #ac977782;
+}
+
+.img {
+    background-size: cover; 
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin-left: 35px;
+}
+
+
+.row {
+    padding-top: 20px;
+}
