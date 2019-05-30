@@ -22,6 +22,7 @@ website.
 <li> CSS3 </li>
 <li> Bootstrap </li>
 
+</ul>
 
 <h2>Features</h3>
 
