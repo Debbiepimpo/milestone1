@@ -23,75 +23,44 @@ website.
 <li> Bootstrap </li>
 
 
-Features
+<h2>Features</h3>
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+This site uses, different HTML files with completly different design on each onee, the grid feature in Bootstrap, with navbar clear and simple and footer can be interactived.
+Also the site uses different designs on each part took them from Bootstrap such as jumbotron, Grid structure and caroussel. And I use one common animation library to get some 
+animate areas to this site for making it more interested when the users come into it.
 
-
-
-Existing Features
-
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+<h2>Testing</h2>
 
 
+This site was tested multiple times as desktop and mobile devices views to make sure is compatible and responsive.
 
-JQuery
+<h2>Deployment</h2>
 
-The project uses JQuery to simplify DOM manipulation.
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
+This site is hosted in GitHub pages, deployed straight away from the master branch.
+The deployed site will update automatically upon new commits to the master branch when I make a new push to the repository.
+Also for the site to deploy as it has to be done correctly on GitHub pages, the main page must be named:  `index.html`.
+If you want to run ths code locally, you can clone this repository directly into the editor of your choice by pasting `git clone`
+https://github.com/Debbiepimpo/milestoneproject1.git into your terminal. And in the end, to unlink with this GitHub repository, type `git remote rm origin` in your terminal.
 
 
-Contact form:
+<h2>Credits</h2>
 
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+<h4>Content</h4>
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+All content from the main page to the media on this website, it was written by me.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+<h4>Media</h4>
 
+The photos used in this site were obtained from the git source given for this milestone project by Code Institute and from google images searching "The Monkees logo".
+The videos used on the "Media" part were embed from youtube.
 
+<h4>Acknowledgements</h4>
 
-Deployment
+I received inspiration for this project from bootstrap, from the esamples that Code Institute provides, searching for some little details on `Google`
+and `Youtube` tutorials specialy for animation. Also I used `animate.css` for all animation appearence. I took some of the band knowledge from `wikipedia.org` webiste,  
+even I've been inspired for the color range I've used by the official The Monkees website and blog with a little touch of vintage.
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+I also used the Media Query for the collapsed navbar on mobile devices views.
 
 
-Credits
-
-Content
-
-The text for section Y was copied from the Wikipedia article Z
-
-Media
-
-The photos used in this site were obtained from ...
-
-Acknowledgements
-
-I received inspiration for this project from X
+<h5>This site it will be only use for educational purposes</h5>
