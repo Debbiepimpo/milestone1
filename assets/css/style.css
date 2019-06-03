@@ -14,15 +14,6 @@
     background-color: #22230a;
 }
 
-.text-light-yellow {
-    color: #f3e906;
-}
-
-.text-color {
-    color: #22230a;
-}
-
-
 
 /*--------------------------------Heading*/
 
@@ -211,6 +202,8 @@ h1 {
 
 /*--------------------------------Cards*/
 
+/* this 2 classes are for make a color patron on the cards, with one in dark green and the other in yellow,
+with the text colored with the opposite color.*/
 
 .card-body-1 {
     padding-left: 10px;
@@ -226,33 +219,6 @@ h1 {
     font-family: "Special elite", sans-serif;
     text-align: center;
     color: #22230a;
-}
-
-.image {
-    background-image: url("image.jpg");
-    background-size: cover; 
-    background-repeat: no-repeat;
-    height: 100%;
-}
-/*--------------------------------Media */
-
-@media (max-width: 768px) {
-    .jumbotron {
-        height: 100%;
-        width: 100%;
-        opacity: 0.85;
-
-    }
-
-    .con-flu {
-        background-image: none;
-        background-color: #c0bb41;
-    }
-
-    .display-3 {
-        font-size: 3.5rem;
-    }
-    
 }
 
 
@@ -351,5 +317,26 @@ body {
 
 .row {
     padding-top: 20px;
+}
+
+/*--------------------------------Media */
+
+@media (max-width: 768px) {
+    .jumbotron {
+        height: 100%;
+        width: 100%;
+        opacity: 0.85;
+
+    }
+
+    .con-flu {
+        background-image: none;
+        background-color: #c0bb41;
+    }
+
+    .display-3 {
+        font-size: 3.5rem;
+    }
+    
 }
 
