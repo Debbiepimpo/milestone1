@@ -90,7 +90,6 @@ header {
 }
 
 .jumbotron {
-    height: 100%;
     width: 50%;
     margin-bottom: 0;
     opacity: 0.95;
@@ -136,7 +135,7 @@ footer {
     margin-right: -15px;
 }
 
-.Top-songs i {
+.top-songs i {
     font-size: 18px;
     color: #f3e906;
     text-align: center;
@@ -206,7 +205,7 @@ h1 {
 /* this 2 classes are for make a color patron on the cards, with one in dark green and the other in yellow,
 with the text colored with the opposite color.*/
 
-.card-body-1 {
+.card-body-yellow {
     padding-left: 10px;
     padding-right: 10px;
     font-family: "Special elite", sans-serif;
@@ -214,7 +213,7 @@ with the text colored with the opposite color.*/
     color: #f3e906;
 }
 
-.card-body-2 {
+.card-body-dark-green {
     padding-left: 10px;
     padding-right: 10px;
     font-family: "Special elite", sans-serif;
@@ -302,7 +301,7 @@ body {
     text-shadow: 2px 1px 4px #22230ad4;
 }
 
-.TandE {
+.t-and-e {
     background-color: #ac977782;
 }
 
