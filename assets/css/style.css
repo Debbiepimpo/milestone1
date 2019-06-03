@@ -89,11 +89,6 @@ header {
     box-shadow: -2px 1px 67px 8px rgba(34, 35, 10, 0.61);
 }
 
-.jumbotron {
-    width: 50%;
-    margin-bottom: 0;
-    opacity: 0.95;
-}
 
 /*--------------------------------Form */
 
@@ -104,14 +99,6 @@ header {
 
 /*--------------------------------Body */
 
-
-.con-flu {
-    background-image: url("../images/monkees.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
-
-}
 
 .info {
     font-family: "Special elite", sans-serif;
