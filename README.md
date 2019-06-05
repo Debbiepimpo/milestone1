@@ -12,8 +12,11 @@ some of the annual tours of the year we are and few pictures and videos with the
 <h2>UX</h2>
 
 My goal in the design was to make information accessible on the site redirecting for an extension of information to an external url, while striving for
-an animate and simple design. With the combination of yellow, black/grey and black/orange colours I wanted to give a little touche of vintage and colorful appearence on the
-website.
+an animate and simple design. With the combination of yellow, black/grey and black/orange colours I wanted to give a little touche of vintage and colorful appearence on the website.
+
+ All content from the main page to the media on this website were inspired by the age of the band, by listening some of their songs and I want the users being moved to an old
+time with the combination of colours, text style and make the pictures fit well with all this due to their vintage apperance.
+ Every text was being resumed to make them quick and easy reading with the purpose to not get the users being bored.
 
 This site uses, different HTML files with completly different design on each one, the grid feature in Bootstrap, with navbar clear and simple and footer can be interactived.
 Also the site uses different designs on each part took them from Bootstrap such as jumbotron, Grid structure and caroussel. And I use one common animation library to get some 
@@ -49,9 +52,7 @@ animate areas to this site for making it more interested when the users come int
 <h2>Testing</h2>
 
 This site was tested across multiple browsers such as Internet Explorer, FireFox, Chrome, Safari and on multiple mobile devices like iPhone 5,6,7: Safari and Chrome, Samsung Galaxy
-to make sure it was compaltible and responsive. During the testing, I realised the color and of paragraph into the cards were musicians are detailed, I couldn't manage any other way 
-apart of making as individual clases  with same properties except the color. It takes longer than I expected but that simple thing changes everithing on the `history` file.
-This site was also tested multiple times to make sure every link worked and also, all links will open in a new tab using 'target="_blank"'.
+to make sure it was compaltible and responsive. This site was also tested multiple times to make sure every link worked and also, all links will open in a new tab using 'target="_blank"'.
 Even every single animation was it was desire, all colours matched as it has to be to make the vintage and non outstanding colours were there when users are on the website.
 
 <h2>Deployment</h2>
@@ -67,10 +68,7 @@ https://github.com/Debbiepimpo/milestoneproject1.git into your terminal.
 
 <h4>Content</h4>
 
-All content from the main page to the media on this website were inspired by the age of the band, by listening some of their songs and I want the users being moved to an old
-time with the combination of colours, text style and make the pictures fit well with all this due to their vintage apperance.
-
-Every text was being resumed to make them quick and easy reading with the purpose to not get the users being bored.
+ I took some of the band knowledge from `wikipedia.org` webiste.
 
 <h4>Media</h4>
 
@@ -80,10 +78,8 @@ The videos used on the "Media" part were embed from youtube.
 <h4>Acknowledgements</h4>
 
 I received inspiration for this project from bootstrap, from the examples that Code Institute provides, searching for some little details on `Google`
-and `Youtube` tutorials specialy for animation. I took some of the band knowledge from `wikipedia.org` webiste, even I've been inspired for the color range
+and `Youtube` tutorials specialy for animation. I've been inspired for the color range that 
 I've used by the official The Monkees website and blog with a little touch of vintage.
-
-I also used the Media Query for the collapsed navbar on mobile devices views.
 
 
 <h5>This site it will be only use for educational purposes</h5>
