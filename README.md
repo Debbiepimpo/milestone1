@@ -58,13 +58,8 @@ Even every single animation was it was desire, all colours matched as it has to 
 <h2>Deployment</h2>
 
 This site is hosted in GitHub pages, deployed straight away from the master branch.
-<<<<<<< HEAD
-The deployed site will update automatically upon new commits to the master branch.To host via Github, code should be pushed to `gh-pages` branch.
-Also for the site to deploy as it has to be done correctly on GitHub pages, the main page must be named:  `index.html`.
-=======
 The deployed site will update automatically upon new commits to the master branch.To host via GitHub, code should be pushed to `gh-pages` branch.
 Also, for the site to deploy as it has to be done correctly on GitHub pages, the main page must be named:  `index.html`.
->>>>>>> 470b8ab6f6e819b15d0788bf6ea03c42f2be5767
 If you want to run ths code locally, you can clone this repository directly into the editor of your choice by pasting `git clone`
 https://github.com/Debbiepimpo/milestoneproject1.git into your terminal.
 
@@ -73,14 +68,7 @@ https://github.com/Debbiepimpo/milestoneproject1.git into your terminal.
 
 <h4>Content</h4>
 
-<<<<<<< HEAD
-All content from the main page to the media on this website were inspired by the age of the band, by listening some of their songs and I want the users being moved to an old
-time with the combination of colours, text style and make the pictures fit well with all this due to their vintage apperance.
-
-Every text was being resumed to make them quick and easy reading with the purpose to not get the users being bored.
-=======
  I took some of the band knowledge from `wikipedia.org` website.
->>>>>>> 470b8ab6f6e819b15d0788bf6ea03c42f2be5767
 
 <h4>Media</h4>
 
