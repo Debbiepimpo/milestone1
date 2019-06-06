@@ -1,6 +1,6 @@
 
 
-   #The Monkees website
+   # The Monkees website
 
 Stream One Project: User Centric Frontend Development - Code Institute
 
@@ -9,7 +9,7 @@ some of the annual tours of the year we are and few pictures and videos with the
 
 
 
-##UX
+## UX
 
 My goal in the design was to make information accessible on the site redirecting for an extension of information to an external URL, while striving for
 an animate and simple design. With the combination of yellow, black/grey and black/orange colours I wanted to give a little touch of vintage and colourful appearance on the website.
@@ -22,7 +22,7 @@ This site uses, different HTML files with completely different design on each on
 Also, the site uses different designs on each part took them from Bootstrap such as jumbotron, Grid structure and carroussel. And I use one common animation library to get some 
 animate areas to this site for making it more interested when the users come into it.
 
-##Technologies
+## Technologies
 
 <ul>
 <li> HTML5 </li>
@@ -31,7 +31,7 @@ animate areas to this site for making it more interested when the users come int
 
 </ul>
 
-##Wireframes
+## Wireframes
 
 This wireframes were created for this project to visualise the difference between large and small screen views, and how the website is responding the same.
 This wireframes were made with Balsamiq and saved as .PNG. 
@@ -44,7 +44,7 @@ Mobile wireframes:
 
 -[Mobile views](assets/wireframe-mobile/)
 
-##Features
+## Features
 
 <ul>
 <li> Home </li>
@@ -62,13 +62,13 @@ Mobile wireframes:
 </ul>
 
 
-##Testing
+## Testing
 
 This site was tested across multiple browsers such as Internet Explorer, Firefox, Chrome, Safari and on multiple mobile devices like iPhone 5,6,7: Safari and Chrome, Samsung Galaxy
 to make sure it was compatible and responsive. This site was also tested multiple times to make sure every link worked and also, all links will open in a new tab using 'target="_blank"'.
 Even every single animation was it was desire, all colours matched as it has to be to make the vintage and non-outstanding colours were there when users are on the website.
 
-##Deployment
+## Deployment
 
 This site is hosted in GitHub pages, deployed straight away from the master branch.
 The deployed site will update automatically upon new commits to the master branch.To host via GitHub, code should be pushed to `gh-pages` branch.
@@ -77,22 +77,22 @@ If you want to run ths code locally, you can clone this repository directly into
 https://github.com/Debbiepimpo/milestoneproject1.git into your terminal.
 
 
-##Credits
+## Credits
 
-####Content
+#### Content
 
  I took some of the band knowledge from `wikipedia.org` website.
 
-####Media
+#### Media
 
 The photos used in this site were obtained from the git source given for this milestone project by Code Institute and from google images searching "The Monkees logo".
 The videos used on the "Media" part were embed from Youtube.
 
-####Acknowledgements
+#### Acknowledgements
 
 I received inspiration for this project from bootstrap, from the examples that Code Institute provides, searching for some little details on `Google`
 and `Youtube` tutorials specialy for animation. I've been inspired for the color range that 
 I've used by the official The Monkees website and blog with a little touch of vintage.
 
 
-#####This site it will be only use for educational purposes
+##### This site it will be only use for educational purposes
