@@ -46,12 +46,16 @@ Mobile wireframes:
 ## Features
 
 * Home 
+
   .This part of the website introduces you on the main face of website and explains a little bit of the band with a link, which directs you to the History link inside the website
 * History 
+
   .This part of the website explains how the band borne, how the musicians were selected and how they became famous. Also talks about their first single recorded and a quick introduction of each component of the band with an external link to a huge explanation of each one on Wikipedia
 * Events 
+
   .Here, I want to keep the fans up to date about the most recent events and concerts being national and international of the current year.
 * Media 
+
   .For don't getting the fans bored, I made a media area which collects some pictures provided and I search for the best videos on Youtube that can be interested for the fans about their most famous songs and some concerts recorded.
 
 
