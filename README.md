@@ -38,8 +38,8 @@ This wireframes were created for this project to visualise the difference betwee
 This wireframes were made with Balsamiq and saved as .PNG. 
 
 <ul>
-<li>[desktop views](assets/wireframe-desktop/)</li>
-<li>[mobile views](assets/wireframe-mobile/)</li>
+<li>[desktop views](../assets/wireframe-desktop/*.png)</li>
+<li>[mobile views](../assets/wireframe-mobile/*.png)</li>
 
 </ul>
 
