@@ -38,20 +38,20 @@ This wireframes were created for this project to visualise the difference betwee
 This wireframes were made with Balsamiq and saved as .PNG. 
 
 Desktop wireframes:
-<ul>
-<li>[Home view](assets/wireframe-desktop/HOME.png)</li>
-<li>[History view](assets/wireframe-desktop/HISTORY.png)</li>
-<li>[Events view](assets/wireframe-desktop/EVENTS.png)</li>
-<li>[Media view](assets/wireframe-desktop/MEDIA.png)</li>
-</ul>
+
+-[Home view](assets/wireframe-desktop/HOME.png)
+-[History view](assets/wireframe-desktop/HISTORY.png)
+-[Events view](assets/wireframe-desktop/EVENTS.png)
+-[Media view](assets/wireframe-desktop/MEDIA.png)
+
 
 Mobile wireframes:
-<ul>
-<li>[Home view](assets/wireframe-mobile/HOME.png)</li>
-<li>[History view](assets/wireframe-mobile/HISTORY.png)</li>
-<li>[Events view](assets/wireframe-mobile/EVENTS.png)</li>
-<li>[Media view](assets/wireframe-mobile/MEDIA.png)</li>
-</ul>
+
+-[Home view](assets/wireframe-mobile/HOME.png)
+-[History view](assets/wireframe-mobile/HISTORY.png)
+-[Events view](assets/wireframe-mobile/EVENTS.png)
+-[Media view](assets/wireframe-mobile/MEDIA.png)
+
 
 
 <h2>Features</h3>
