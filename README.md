@@ -39,19 +39,11 @@ This wireframes were made with Balsamiq and saved as .PNG.
 
 Desktop wireframes:
 
--[Home view](assets/wireframe-desktop/HOME.png)
--[History view](assets/wireframe-desktop/HISTORY.png)
--[Events view](assets/wireframe-desktop/EVENTS.png)
--[Media view](assets/wireframe-desktop/MEDIA.png)
-
+-[Dsktop views](assets/wireframe-desktop/) 
 
 Mobile wireframes:
 
--[Home view](assets/wireframe-mobile/HOME.png)
--[History view](assets/wireframe-mobile/HISTORY.png)
--[Events view](assets/wireframe-mobile/EVENTS.png)
--[Media view](assets/wireframe-mobile/MEDIA.png)
-
+-[Mobile views](assets/wireframe-mobile/)
 
 
 <h2>Features</h3>
