@@ -31,6 +31,19 @@ animate areas to this site for making it more interested when the users come int
 
 </ul>
 
+<h3> Wireframes</h3>
+
+This wireframes were created for this project to visualise the difference between large and small screen views, and how the website is responding the same.
+This wireframes were made with Balsamiq and saved as .PNG. 
+
+Desktop wireframes:
+
+-[Desktop views](assets/wireframe-desktop/) 
+
+Mobile wireframes:
+
+-[Mobile views](assets/wireframe-mobile/)
+
 <h2>Features</h3>
 
 <ul>
