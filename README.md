@@ -39,7 +39,7 @@ This wireframes were made with Balsamiq and saved as .PNG.
 
 Desktop wireframes:
 
--[Dsktop views](assets/wireframe-desktop/) 
+-[Desktop views](assets/wireframe-desktop/) 
 
 Mobile wireframes:
 
