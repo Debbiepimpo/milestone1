@@ -25,10 +25,10 @@ animate areas to this site for making it more interested when the users come int
 ## Technologies
 
 
-..* HTML5 
-..* CSS3 
-..* Bootstrap
-..* Balsamiq
+* HTML5 
+* CSS3 
+* Bootstrap
+* Balsamiq
 
 ## Wireframes
 
