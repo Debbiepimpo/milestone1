@@ -28,8 +28,21 @@ animate areas to this site for making it more interested when the users come int
 <li> HTML5 </li>
 <li> CSS3 </li>
 <li> Bootstrap </li>
+<li> Balsamiq </li>
 
 </ul>
+
+<h3> Wireframes</h3>
+
+This wireframes were created for this project to visualise the difference between large and small screen views, and how the website is responding the same.
+This wireframes were made with Balsamiq and saved as .PNG. 
+
+<ul>
+<li>[desktop views](assets/wireframe-desktop)</li>
+<li>[mobile views](assets/wireframe-mobile)</li>
+
+</ul>
+
 
 <h2>Features</h3>
 
